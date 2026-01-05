@@ -63,3 +63,12 @@ just_the_docs:
   aux_links:
     "GitHub":
       - "//github.com/geshpoyo/vet-scopius"
+
+navigation:
+    - title: "ƒz[ƒ€"
+      url: /
+    - title: "Œ¢‚Ì¾Š³"
+      url: /dogs/
+    - title: "”L‚Ì¾Š³"
+      url: /cats/
+
