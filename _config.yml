@@ -57,6 +57,7 @@ plugins:
 #   - vendor/ruby/
 
 
+remote_theme: just-the-docs/just-the-docs
 
 # サイドバー設定
 just_the_docs:
