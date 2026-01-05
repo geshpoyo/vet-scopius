@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+title: "獣医志Scopius"
+description: "獣医情報Wiki"
+
+email: geshtalt@aol.jp
+description: "獣医療の知識、臨床メモ、学習ノート、現場で役立つ実践的な情報を体系的にまとめた獣医志Wiki。学生から現役獣医師まで、学びと成長を支えるオープンな知識ベースです。"
+baseurl: "/vet-scopius" # リポジトリ名
+url: "https://geshpoyo.github.io" # GitHub Pages のベースURL
+
+twitter_username: gesh_talt
+github_username: geshpoyo
 
 # Build settings
 theme: minima
