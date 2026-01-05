@@ -32,9 +32,23 @@
               "icon": "lucide-image",
               "title": "Refined logo design"
             }
+          },
+          {
+            "id": "0b4eb77b307aff33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "キャッシュフロー/借金返済ノート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "借金返済ノート"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,13 +209,15 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-file-info-plugin:File Info Panel": false
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a73996f7adc4ba2",
+  "active": "0b4eb77b307aff33",
   "lastOpenFiles": [
-    "獣医志Scopius/Logo design for “獣医志.png",
+    "テスト.md",
     "獣医志Scopius/Refined logo design .png",
+    "獣医志Scopius/Logo design for “獣医志.png",
     "獣医志Scopius/獣医志Scopius 方針とデザイン.md",
     "geshtalt/2026年　目標.md",
     "無題のファイル.base",
@@ -234,7 +250,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]

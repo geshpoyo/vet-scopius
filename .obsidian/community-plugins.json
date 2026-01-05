@@ -6,5 +6,6 @@
   "obsidian-file-info-plugin",
   "copy-url-in-preview",
   "tag-wrangler",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-git"
 ]
