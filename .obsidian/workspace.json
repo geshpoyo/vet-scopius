@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "獣医志Scopius/マニュアル.md",
+                "file": "獣医志Scopius/テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マニュアル"
+              "title": "テスト"
             }
           }
         ]
@@ -206,11 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68db9cb2ff9148b3",
+  "active": "e66ad07866ee7cc9",
   "lastOpenFiles": [
-    "_posts/猫の疾患一覧.md",
     "獣医志Scopius/マニュアル.md",
     "獣医志Scopius/テスト.md",
+    "assets/logo.png",
+    "assets/Refined logo design .png",
+    "assets",
+    "_posts/猫の疾患一覧.md",
     "Obsidian/Obsidian マニュアル.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "geshtalt/2026年　目標.md",
@@ -230,7 +233,6 @@
     "404.html",
     "conflict-files-obsidian-git.md",
     "キャッシュフロー/ローン返済ノート.md",
-    "index.BAK",
     "キャッシュフロー/確定申告.md",
     "キャッシュフロー/生活コスト削減買い物リスト.md",
     "キャッシュフロー/健康.md",
