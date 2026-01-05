@@ -31,7 +31,7 @@ twitter_username: gesh_talt
 github_username: geshpoyo
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
@@ -54,3 +54,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
+# サイドバー設定
+just_the_docs:
+  logo: "/assets/logo.png" # ロゴ画像（任意）
+  aux_links:
+    "GitHub":
+      - "//github.com/geshpoyo/vet-scopius"
