@@ -20,12 +20,13 @@
 
 
 title: "獣医志Scopius"
-description: "獣医情報Wiki"
-
 email: geshtalt@aol.jp
 description: "獣医療の知識、臨床メモ、学習ノート、現場で役立つ実践的な情報を体系的にまとめた獣医志Wiki。学生から現役獣医師まで、学びと成長を支えるオープンな知識ベースです。"
+
 baseurl: "/vet-scopius" # リポジトリ名
 url: "https://geshpoyo.github.io" # GitHub Pages のベースURL
+
+encoding: "UTF-8"
 
 twitter_username: gesh_talt
 github_username: geshpoyo
@@ -60,15 +61,16 @@ plugins:
 # サイドバー設定
 just_the_docs:
   logo: "/assets/logo.png" # ロゴ画像（任意）
-  aux_links:
+  
+aux_links:
     "GitHub":
       - "//github.com/geshpoyo/vet-scopius"
-
-navigation:
+  navigation:
     - title: "ホーム"
       url: /
     - title: "犬の疾患"
       url: /dogs/
     - title: "猫の疾患"
       url: /cats/
+
 
