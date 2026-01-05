@@ -32,7 +32,6 @@ twitter_username: gesh_talt
 github_username: geshpoyo
 
 # Build settings
-theme: just-the-docs
 plugins:
   - jekyll-feed
 
