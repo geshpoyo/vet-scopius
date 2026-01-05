@@ -64,10 +64,10 @@ plugins:
 
 
 # サイドバー設定
+
 just_the_docs:
   logo: "/assets/logo.png" # ロゴ画像（任意）
-  
-aux_links:
+  aux_links:
     "GitHub":
       - "//github.com/geshpoyo/vet-scopius"
   navigation:
@@ -77,5 +77,4 @@ aux_links:
       url: /dogs/
     - title: "猫の疾患"
       url: /cats/
-
 
