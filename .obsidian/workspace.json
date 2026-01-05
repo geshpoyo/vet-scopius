@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
+                "file": "獣医志Scopius/テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15,000本以上売れた「最高のミルクティー」レシピ"
+              "title": "テスト"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル 1.base",
+                "file": "獣医志Scopius/テスト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイル 1へのバックリンク"
+              "title": "テストへのバックリンク"
             }
           },
           {
@@ -161,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル 1.base",
+                "file": "獣医志Scopius/テスト.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "無題のファイル 1からのアウトゴーイングリンク"
+              "title": "テストからのアウトゴーイングリンク"
             }
           },
           {
@@ -254,23 +254,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4322ac1f500f4214",
+  "active": "68db9cb2ff9148b3",
   "lastOpenFiles": [
+    "獣医志Scopius/マニュアル/マニュアル.md",
+    "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
+    "無題のファイル 1.base",
     "動物別疾患.md",
     "猫の疾患一覧.md",
     "犬の疾患一覧.md",
     "無題のファイル.base",
-    "無題のファイル 1.base",
     "index.md",
     "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
-    "獣医志Scopius/マニュアル/マニュアル.md",
     "獣医志Scopius/マニュアル",
     "獣医志Scopius/テスト.md",
     "獣医志Scopius/Refined logo design .png",
     "獣医志Scopius/Logo design for “獣医志.png",
     "Obsidian/Obsidian マニュアル.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
     "geshtalt/2026年　目標.md",
     "assets/logo.png",
     "assets/Refined logo design .png",

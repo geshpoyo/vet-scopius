@@ -66,6 +66,7 @@ plugins:
 # サイドバー設定
 
 just_the_docs:
+  search_enabled: true
   logo: "/assets/logo.png" # ロゴ画像（任意）
   aux_links:
     "GitHub":
