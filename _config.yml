@@ -73,7 +73,7 @@ just_the_docs:
       - "//github.com/geshpoyo/vet-scopius"
   navigation:
     - title: "ホーム"
-      url: /
+      url: /index/
     - title: "犬の疾患"
       url: /dogs/
     - title: "猫の疾患"
