@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "bˆãuScopius"
+title: "ç£åŒ»å¿—Scopius"
 email: geshtalt@aol.jp
-description: "bˆã—Ã‚Ì’m¯A—Õ°ƒƒ‚AŠwKƒm[ƒgAŒ»ê‚Å–ğ—§‚ÂÀ‘H“I‚Èî•ñ‚ğ‘ÌŒn“I‚É‚Ü‚Æ‚ß‚½bˆãuWikiBŠw¶‚©‚çŒ»–ğbˆãt‚Ü‚ÅAŠw‚Ñ‚Æ¬’·‚ğx‚¦‚éƒI[ƒvƒ“‚È’m¯ƒx[ƒX‚Å‚·B"
+description: "ç£åŒ»ç™‚ã®çŸ¥è­˜ã€è‡¨åºŠãƒ¡ãƒ¢ã€å­¦ç¿’ãƒãƒ¼ãƒˆã€ç¾å ´ã§å½¹ç«‹ã¤å®Ÿè·µçš„ãªæƒ…å ±ã‚’ä½“ç³»çš„ã«ã¾ã¨ã‚ãŸç£åŒ»å¿—Wikiã€‚å­¦ç”Ÿã‹ã‚‰ç¾å½¹ç£åŒ»å¸«ã¾ã§ã€å­¦ã³ã¨æˆé•·ã‚’æ”¯ãˆã‚‹ã‚ªãƒ¼ãƒ—ãƒ³ãªçŸ¥è­˜ãƒ™ãƒ¼ã‚¹ã§ã™ã€‚"
 
-baseurl: "/vet-scopius" # ƒŠƒ|ƒWƒgƒŠ–¼
-url: "https://geshpoyo.github.io" # GitHub Pages ‚Ìƒx[ƒXURL
+baseurl: "/vet-scopius" # ãƒªãƒã‚¸ãƒˆãƒªå
+url: "https://geshpoyo.github.io" # GitHub Pages ã®ãƒ™ãƒ¼ã‚¹URL
 
 encoding: "UTF-8"
 
@@ -63,19 +63,19 @@ plugins:
   - jekyll-remote-theme
 
 
-# ƒTƒCƒhƒo[İ’è
+# ã‚µã‚¤ãƒ‰ãƒãƒ¼è¨­å®š
 just_the_docs:
-  logo: "/assets/logo.png" # ƒƒS‰æ‘œi”CˆÓj
+  logo: "/assets/logo.png" # ãƒ­ã‚´ç”»åƒï¼ˆä»»æ„ï¼‰
   
 aux_links:
     "GitHub":
       - "//github.com/geshpoyo/vet-scopius"
   navigation:
-    - title: "ƒz[ƒ€"
+    - title: "ãƒ›ãƒ¼ãƒ "
       url: /
-    - title: "Œ¢‚Ì¾Š³"
+    - title: "çŠ¬ã®ç–¾æ‚£"
       url: /dogs/
-    - title: "”L‚Ì¾Š³"
+    - title: "çŒ«ã®ç–¾æ‚£"
       url: /cats/
 
 
