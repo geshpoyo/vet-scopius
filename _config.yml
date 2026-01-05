@@ -58,6 +58,11 @@ plugins:
 
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+
 # サイドバー設定
 just_the_docs:
   logo: "/assets/logo.png" # ロゴ画像（任意）
