@@ -1,4 +1,6 @@
 {
   "showUnsupportedFiles": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }
