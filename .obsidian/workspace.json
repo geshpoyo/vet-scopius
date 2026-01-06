@@ -11,13 +11,14 @@
             "id": "83064db64f1e601c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル 1.base",
-                "viewName": "Table"
+                "file": "獣医志Scopius/マニュアル/マニュアル.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル 1"
+              "icon": "lucide-file",
+              "title": "マニュアル"
             }
           }
         ]
@@ -32,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "獣医志Scopius/マニュアル/テスト.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト"
+              "title": "index"
             }
           }
         ]
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "獣医志Scopius/マニュアル/テスト.md",
+                "file": "獣医志Scopius/マニュアル/マニュアル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "テストへのバックリンク"
+              "title": "マニュアルへのバックリンク"
             }
           },
           {
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "獣医志Scopius/マニュアル/テスト.md",
+                "file": "獣医志Scopius/マニュアル/マニュアル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "テストからのアウトゴーイングリンク"
+              "title": "マニュアルからのアウトゴーイングリンク"
             }
           },
           {
@@ -225,22 +226,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4322ac1f500f4214",
+  "active": "83064db64f1e601c",
   "lastOpenFiles": [
+    "index.md",
+    "犬の疾患一覧.md",
     "獣医志Scopius/マニュアル/マニュアル.md",
     "無題のファイル 1.base",
+    "獣医志Scopius/マニュアル/テスト.md",
     "assets/images/logo.png",
     "assets/images",
     "無題のファイル.base",
-    "獣医志Scopius/マニュアル/テスト.md",
     "獣医志Scopius/獣医志Scopius 方針とデザイン.md",
     "獣医志Scopius/ロゴ/Logo design for “獣医志.png",
     "獣医志Scopius/ロゴ/Refined logo design .png",
     "獣医志Scopius/ロゴ",
     "assets/logo.png",
-    "犬の疾患一覧.md",
     "動物別疾患.md",
-    "index.md",
     "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
     "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
     "猫の疾患一覧.md",
