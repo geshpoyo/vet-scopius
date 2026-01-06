@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
+                "file": "Obsidian/Obsidian マニュアル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "階層構造（親子ページ）の設定方法"
+              "title": "Obsidian マニュアル"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
+                "file": "Obsidian/Obsidian マニュアル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "階層構造（親子ページ）の設定方法へのバックリンク"
+              "title": "Obsidian マニュアルへのバックリンク"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
+                "file": "Obsidian/Obsidian マニュアル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "階層構造（親子ページ）の設定方法からのアウトゴーイングリンク"
+              "title": "Obsidian マニュアルからのアウトゴーイングリンク"
             }
           },
           {
@@ -244,6 +244,7 @@
   },
   "active": "6434de6b1f2e8ba9",
   "lastOpenFiles": [
+    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
     "獣医志Scopius/マニュアル/テスト.md",
     "獣医志Scopius/マニュアル/マニュアル.md",
@@ -252,7 +253,6 @@
     "ページ生成.md",
     "犬の疾患一覧.md",
     "動物別疾患.md",
-    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "index.md",
     "assets/images/favicon.png",
     "assets/images/favicon.jpg",
