@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Obsidian マニュアル"
             }
+          },
+          {
+            "id": "5e5d16e6321d4ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "解剖学/解剖学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解剖学"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e2c429485e3974b9",
@@ -129,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian マニュアル.md",
+                "file": "解剖学/解剖学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian マニュアルへのバックリンク"
+              "title": "解剖学へのバックリンク"
             }
           },
           {
@@ -148,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian マニュアル.md",
+                "file": "解剖学/解剖学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian マニュアルからのアウトゴーイングリンク"
+              "title": "解剖学からのアウトゴーイングリンク"
             }
           },
           {
@@ -242,17 +256,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6434de6b1f2e8ba9",
+  "active": "4322ac1f500f4214",
   "lastOpenFiles": [
-    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
-    "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
-    "獣医志Scopius/マニュアル/テスト.md",
-    "獣医志Scopius/マニュアル/マニュアル.md",
-    "猫の疾患一覧.md",
-    "テンプレート.md",
-    "ページ生成.md",
+    "解剖学",
     "犬の疾患一覧.md",
     "動物別疾患.md",
+    "解剖学/解剖学.md",
+    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
+    "獣医志Scopius/マニュアル/マニュアル.md",
+    "テンプレート.md",
+    "Obsidian/Obsidian マニュアル.md",
+    "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
+    "獣医志Scopius/マニュアル/テスト.md",
+    "猫の疾患一覧.md",
+    "ページ生成.md",
     "index.md",
     "assets/images/favicon.png",
     "assets/images/favicon.jpg",
@@ -267,7 +284,6 @@
     "assets/logo.png",
     "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
     "獣医志Scopius/マニュアル",
-    "Obsidian/Obsidian マニュアル.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "geshtalt/2026年　目標.md",
     "assets/Refined logo design .png",
@@ -286,8 +302,6 @@
     "キャッシュフロー/たばこ減煙計画.md",
     "無題のファイル.canvas",
     "2026-01-05.md",
-    "Welcome.md",
-    "v v v v v v v v v v.canvas",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md"
+    "v v v v v v v v v v.canvas"
   ]
 }
