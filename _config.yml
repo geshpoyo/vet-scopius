@@ -67,7 +67,7 @@ plugins:
 
 just_the_docs:
   search_enabled: true
-  logo: "/assets/logo.png" # ロゴ画像（任意）
+  logo: "/assets/images/logo.png" # ロゴ画像（任意）
   aux_links:
     "GitHub":
       - "//github.com/geshpoyo/vet-scopius"
