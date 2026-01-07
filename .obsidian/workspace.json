@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解剖学/解剖学.md",
+                "file": "Obsidian/Obsidian マニュアル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解剖学"
+              "title": "Obsidian マニュアル"
+            }
+          },
+          {
+            "id": "05b86aed19ac9f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian AI用の設定ノート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian AI用の設定ノート"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e2c429485e3974b9",
@@ -256,16 +270,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4322ac1f500f4214",
+  "active": "05b86aed19ac9f12",
   "lastOpenFiles": [
+    "Obsidian/Obsidian マニュアル.md",
+    "Obsidian/Obsidian AI用の設定ノート.md",
+    "解剖学/解剖学.md",
     "解剖学",
     "犬の疾患一覧.md",
     "動物別疾患.md",
-    "解剖学/解剖学.md",
     "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "獣医志Scopius/マニュアル/マニュアル.md",
     "テンプレート.md",
-    "Obsidian/Obsidian マニュアル.md",
     "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
     "獣医志Scopius/マニュアル/テスト.md",
     "猫の疾患一覧.md",
@@ -291,7 +306,6 @@
     "Gemfile.lock",
     "Gemfile",
     "_posts/2026-01-06-welcome-to-jekyll.markdown",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "conflict-files-obsidian-git.md",
     "キャッシュフロー/ローン返済ノート.md",
     "キャッシュフロー/確定申告.md",
