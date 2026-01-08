@@ -55,36 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian AI用の設定ノート.md",
+                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian AI用の設定ノート"
+              "title": "階層構造（親子ページ）の設定方法"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e2c429485e3974b9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "31e8c22708f3376e",
+            "id": "9e7d82aea7e44bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "法律/法律.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "法律"
+            }
+          },
+          {
+            "id": "5502a8fbc8378203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律/獣医師法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "獣医師法"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,15 +277,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b86aed19ac9f12",
+  "active": "003649d4c23bc81e",
   "lastOpenFiles": [
-    "Obsidian/Obsidian マニュアル.md",
-    "Obsidian/Obsidian AI用の設定ノート.md",
+    "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
+    "copilot/copilot-conversations",
+    "法律/法律.md",
+    "法律/獣医師法.md",
+    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "解剖学/解剖学.md",
+    "Obsidian/Obsidian AI用の設定ノート.md",
+    "Obsidian/Obsidian マニュアル.md",
+    "法律",
     "解剖学",
     "犬の疾患一覧.md",
     "動物別疾患.md",
-    "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "獣医志Scopius/マニュアル/マニュアル.md",
     "テンプレート.md",
     "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
@@ -304,18 +316,13 @@
     "assets/Refined logo design .png",
     "assets",
     "Gemfile.lock",
-    "Gemfile",
-    "_posts/2026-01-06-welcome-to-jekyll.markdown",
     "conflict-files-obsidian-git.md",
     "キャッシュフロー/ローン返済ノート.md",
     "キャッシュフロー/確定申告.md",
     "キャッシュフロー/生活コスト削減買い物リスト.md",
     "キャッシュフロー/健康.md",
     "キャッシュフロー/貯金.md",
-    "キャッシュフロー/自炊.md",
-    "キャッシュフロー/たばこ減煙計画.md",
     "無題のファイル.canvas",
-    "2026-01-05.md",
     "v v v v v v v v v v.canvas"
   ]
 }
