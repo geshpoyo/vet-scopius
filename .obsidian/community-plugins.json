@@ -7,5 +7,6 @@
   "copy-url-in-preview",
   "tag-wrangler",
   "obsidian-regex-replace",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
