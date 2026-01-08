@@ -8,5 +8,6 @@
   "tag-wrangler",
   "obsidian-regex-replace",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "breadcrumbs"
 ]

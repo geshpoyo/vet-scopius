@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ee58e0560b65b965",
+        "id": "e4c83582e97c7266",
         "type": "tabs",
         "children": [
           {
-            "id": "83064db64f1e601c",
+            "id": "547a87d90e8179e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "動物別疾患.md",
+                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "動物別疾患"
-            }
-          },
-          {
-            "id": "6434de6b1f2e8ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian マニュアル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian マニュアル"
-            }
-          },
-          {
-            "id": "5e5d16e6321d4ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian マニュアル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian マニュアル"
-            }
-          },
-          {
-            "id": "05b86aed19ac9f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "階層構造（親子ページ）の設定方法"
-            }
-          },
-          {
-            "id": "9e7d82aea7e44bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "獣医志Scopius/法律/法律.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "法律"
-            }
-          },
-          {
-            "id": "5502a8fbc8378203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "階層構造（親子ページ）の設定方法"
-            }
-          },
-          {
-            "id": "4b2af0d60708918f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Scopius template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scopius template"
-            }
-          },
-          {
-            "id": "7f18be0df00c243a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Scopius template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scopius template"
+              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "解剖学/解剖学.md",
+                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "解剖学へのバックリンク"
+              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインへのバックリンク"
             }
           },
           {
@@ -212,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "解剖学/解剖学.md",
+                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "解剖学からのアウトゴーイングリンク"
+              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインからのアウトゴーイングリンク"
             }
           },
           {
@@ -255,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian マニュアル.md",
+                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian マニュアルのアウトライン"
+              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインのアウトライン"
             }
           },
           {
@@ -293,14 +194,33 @@
               "icon": "lucide-file",
               "title": "File Info View"
             }
+          },
+          {
+            "id": "c0e75cda5d476cc6",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "be1b91af5b82383d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,30 +234,34 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7f18be0df00c243a",
+  "active": "547a87d90e8179e2",
   "lastOpenFiles": [
-    "獣医志Scopius/法律/法律.md",
-    "Templates/Scopius template.md",
+    "Obsidian/Obsidian AI用の設定ノート.md",
+    "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+    "Pasted image 20260109074820.png",
     "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
+    "Obsidian/Plug-In",
+    "Templates/Scopius template.md",
+    "Templates/デイリーノート.md",
+    "Obsidian/Obsidian マニュアル.md",
+    "獣医志Scopius/マニュアル/マニュアル.md",
+    "獣医志Scopius/法律/獣医師法.md",
+    "動物別疾患.md",
+    "獣医志Scopius/法律/法律.md",
+    "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
     "犬の疾患一覧.md",
     "猫の疾患一覧.md",
-    "動物別疾患.md",
     "獣医志Scopius/獣医志Scopius 方針とデザイン.md",
-    "Templates/デイリーノート.md",
     "プログラミング",
     "Templates/テンプレート.md",
-    "獣医志Scopius/法律/獣医師法.md",
-    "獣医志Scopius/マニュアル/マニュアル.md",
     "獣医志Scopius/マニュアル/テスト.md",
     "Templates",
-    "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
     "copilot/copilot-conversations",
     "獣医志Scopius/解剖学/解剖学.md",
-    "Obsidian/Obsidian AI用の設定ノート.md",
-    "Obsidian/Obsidian マニュアル.md",
     "獣医志Scopius/法律",
     "獣医志Scopius/解剖学",
     "獣医志Scopius/マニュアル/「Obsidian のノートを Jekyll サイト（GitHub Pages）にどうやって反映させるか？」.md",
@@ -354,13 +278,11 @@
     "獣医志Scopius/ロゴ",
     "assets/logo.png",
     "料理/15,000本以上売れた「最高のミルクティー」レシピ.md",
-    "獣医志Scopius/マニュアル",
     "copilot/copilot-custom-prompts/Emojify.md",
     "geshtalt/2026年　目標.md",
     "assets/Refined logo design .png",
     "conflict-files-obsidian-git.md",
     "キャッシュフロー/ローン返済ノート.md",
-    "キャッシュフロー/確定申告.md",
     "無題のファイル.canvas",
     "v v v v v v v v v v.canvas"
   ]
