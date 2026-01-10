@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+                "file": "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン"
+              "title": "第十二条が施工された背景@20260108_155114"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+                "file": "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインへのバックリンク"
+              "title": "第十二条が施工された背景@20260108_155114へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+                "file": "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインからのアウトゴーイングリンク"
+              "title": "第十二条が施工された背景@20260108_155114からのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+                "file": "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグインのアウトライン"
+              "title": "第十二条が施工された背景@20260108_155114のアウトライン"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -181,8 +181,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -191,18 +191,18 @@
             "state": {
               "type": "tlfItemView",
               "state": {},
-              "icon": "lucide-file",
-              "title": "File Info View"
+              "icon": "lucide-ghost",
+              "title": "tlfItemView"
             }
           },
           {
             "id": "c0e75cda5d476cc6",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           },
           {
@@ -214,9 +214,19 @@
               "icon": "feather-corner-right-down",
               "title": "Breadcrumbs Down"
             }
+          },
+          {
+            "id": "1264cc4fefd32d63",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -238,10 +248,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "547a87d90e8179e2",
+  "active": "1264cc4fefd32d63",
   "lastOpenFiles": [
-    "Obsidian/Obsidian AI用の設定ノート.md",
     "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+    "Obsidian/Obsidian AI用の設定ノート.md",
     "Pasted image 20260109074820.png",
     "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "Obsidian/Plug-In",
