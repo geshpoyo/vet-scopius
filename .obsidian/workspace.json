@@ -209,24 +209,14 @@
             "id": "be1b91af5b82383d",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
-            "id": "1264cc4fefd32d63",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -244,12 +234,12 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1264cc4fefd32d63",
+  "active": "be1b91af5b82383d",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
     "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
     "Obsidian/Obsidian AI用の設定ノート.md",
     "Pasted image 20260109074820.png",
@@ -262,7 +252,6 @@
     "獣医志Scopius/法律/獣医師法.md",
     "動物別疾患.md",
     "獣医志Scopius/法律/法律.md",
-    "copilot/copilot-conversations/第十二条が施工された背景@20260108_155114.md",
     "犬の疾患一覧.md",
     "猫の疾患一覧.md",
     "獣医志Scopius/獣医志Scopius 方針とデザイン.md",

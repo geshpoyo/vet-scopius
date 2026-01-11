@@ -2,12 +2,11 @@
   "copilot",
   "obsidian-link-embed",
   "auto-note-mover",
-  "dataview",
   "obsidian-file-info-plugin",
   "copy-url-in-preview",
   "tag-wrangler",
   "obsidian-regex-replace",
   "obsidian-git",
   "templater-obsidian",
-  "breadcrumbs"
+  "dataview"
 ]
