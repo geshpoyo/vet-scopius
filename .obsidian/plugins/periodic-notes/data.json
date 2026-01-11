@@ -4,8 +4,8 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "Templates/デイリーノート.md",
-    "folder": "デイリーノート",
+    "template": "Templates/1.Daily.md",
+    "folder": "★Periodic Notes/1.Daily",
     "enabled": true
   },
   "weekly": {
