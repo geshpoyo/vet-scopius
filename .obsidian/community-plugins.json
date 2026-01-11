@@ -8,5 +8,6 @@
   "obsidian-regex-replace",
   "obsidian-git",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "periodic-notes"
 ]
