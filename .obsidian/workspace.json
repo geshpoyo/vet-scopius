@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★Periodic Notes/1.Daily/2026-01-11.md",
+                "file": "★Periodic Notes/1.Daily/2026-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-11"
+              "title": "2026-01-12"
             }
           }
         ],
@@ -339,10 +339,13 @@
   },
   "active": "74d4bb23355ccfea",
   "lastOpenFiles": [
-    "Obsidian/Plug-In/ticktick-quickadd-plugin.md",
-    "★Periodic Notes/1.Daily/2026-01-11.md",
-    "無題のファイル.canvas",
     "Templates/1.Daily.md",
+    "Templates/5.Yearly.md",
+    "Templates/Scopius template.md",
+    "★Periodic Notes/1.Daily/2026-01-12.md",
+    "★Periodic Notes/1.Daily/2026-01-11.md",
+    "Obsidian/Plug-In/ticktick-quickadd-plugin.md",
+    "無題のファイル.canvas",
     "★Periodic Notes/1.Daily/Untitled.md",
     "★Periodic Notes/1.Daily/Untitled 1.md",
     "★Periodic Notes/1.Daily/無題のファイル.md",
@@ -351,7 +354,6 @@
     "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
     "Pasted image 20260111174422.png",
     "プログラミング/あいさつプログラム.md",
-    "Templates/5.Yearly.md",
     "Templates/4.Quarterly.md",
     "Templates/3.Monthly.md",
     "Templates/2.Weekly.md",
@@ -365,7 +367,6 @@
     "Pasted image 20260109074820.png",
     "獣医志Scopius/マニュアル/階層構造（親子ページ）の設定方法.md",
     "Obsidian/Plug-In",
-    "Templates/Scopius template.md",
     "獣医志Scopius/マニュアル/マニュアル.md",
     "獣医志Scopius/法律/獣医師法.md",
     "動物別疾患.md",
