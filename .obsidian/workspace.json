@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ticktick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,11 +340,15 @@
   },
   "active": "74d4bb23355ccfea",
   "lastOpenFiles": [
+    "★Periodic Notes/1.Daily/2026-01-11.md",
+    "★Periodic Notes/1.Daily/2026-01-12.md",
+    "★Periodic Notes/5.Yearly/2026.md",
+    "★Periodic Notes/4.Quarterly/2026-Q1.md",
+    "★Periodic Notes/3.Monthly/2026-01.md",
+    "★Periodic Notes/2.Weekly/2026-w03.md",
     "Templates/1.Daily.md",
     "Templates/5.Yearly.md",
     "Templates/Scopius template.md",
-    "★Periodic Notes/1.Daily/2026-01-12.md",
-    "★Periodic Notes/1.Daily/2026-01-11.md",
     "Obsidian/Plug-In/ticktick-quickadd-plugin.md",
     "無題のファイル.canvas",
     "★Periodic Notes/1.Daily/Untitled.md",
@@ -371,11 +376,7 @@
     "獣医志Scopius/法律/獣医師法.md",
     "動物別疾患.md",
     "獣医志Scopius/法律/法律.md",
-    "犬の疾患一覧.md",
-    "猫の疾患一覧.md",
-    "獣医志Scopius/獣医志Scopius 方針とデザイン.md",
     "プログラミング",
-    "Templates/テンプレート.md",
     "Templates",
     "copilot/copilot-conversations",
     "assets/images/favicon.png",
