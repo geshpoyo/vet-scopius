@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geshtalt/★Periodic Notes/1.Daily/2026-01-13.md",
+                "file": "プログラミング/Turtle1.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "Turtle1.py"
             }
           }
         ],
@@ -367,15 +367,15 @@
   },
   "active": "5d59241bdf86399b",
   "lastOpenFiles": [
-    "geshtalt/★Periodic Notes/1.Daily/2026-01-11.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-13.md",
+    "geshtalt/★Periodic Notes/1.Daily/2026-01-11.md",
     "Prompt/Prompt Library/Untitled.md",
     "Prompt/Prompt Library/無題のファイル.md",
     "Prompt/Prompt Library/下記文章を、300文字以内で要約してください。.md",
     "Templates/temprompt.md",
     "Prompt/Dataview（一覧・検索）/Prompt Index.md",
     "Prompt/Dataview（一覧・検索）/Untitled.md",
-    "プログラミング/あいさつプログラム.md",
+    "プログラミング/Turtle1.py.md",
     "Prompt/FlowGPT（高速呼び出し）",
     "Prompt/Dataview（一覧・検索）",
     "Prompt/Prompt Tags",
