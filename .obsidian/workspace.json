@@ -97,30 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian マニュアル.md",
+                "file": "★Periodic Notes/1.Daily/2026-01-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian マニュアル"
-            }
-          },
-          {
-            "id": "74d4bb23355ccfea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★Periodic Notes/1.Daily/2026-01-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-12"
+              "title": "2026-01-13"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ticktick",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,12 +159,11 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.49999618530273
   },
   "right": {
     "id": "edb2bd2b749cc1b4",
@@ -320,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,25 +323,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74d4bb23355ccfea",
+  "active": "7ec101036e564aaa",
   "lastOpenFiles": [
-    "★Periodic Notes/1.Daily/2026-01-11.md",
+    "Templates/1.Daily.md",
+    "Obsidian/Obsidian マニュアル.md",
+    "Obsidian/Obsidian AI用の設定ノート.md",
+    "Obsidian/Plug-In/ticktick-quickadd-plugin.md",
+    "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
+    "★Periodic Notes/1.Daily/2026-01-13.md",
     "★Periodic Notes/1.Daily/2026-01-12.md",
+    "★Periodic Notes/1.Daily/2026-01-11.md",
     "★Periodic Notes/5.Yearly/2026.md",
     "★Periodic Notes/4.Quarterly/2026-Q1.md",
     "★Periodic Notes/3.Monthly/2026-01.md",
     "★Periodic Notes/2.Weekly/2026-w03.md",
-    "Templates/1.Daily.md",
     "Templates/5.Yearly.md",
     "Templates/Scopius template.md",
-    "Obsidian/Plug-In/ticktick-quickadd-plugin.md",
     "無題のファイル.canvas",
     "★Periodic Notes/1.Daily/Untitled.md",
     "★Periodic Notes/1.Daily/Untitled 1.md",
     "★Periodic Notes/1.Daily/無題のファイル.md",
-    "Obsidian/Obsidian マニュアル.md",
-    "Obsidian/Obsidian AI用の設定ノート.md",
-    "Obsidian/Plug-In/Obsidian で 「関連ノートを自動で貼り付ける／表示する」ためのプラグイン.md",
     "Pasted image 20260111174422.png",
     "プログラミング/あいさつプログラム.md",
     "Templates/4.Quarterly.md",
@@ -375,7 +361,6 @@
     "獣医志Scopius/マニュアル/マニュアル.md",
     "獣医志Scopius/法律/獣医師法.md",
     "動物別疾患.md",
-    "獣医志Scopius/法律/法律.md",
     "プログラミング",
     "Templates",
     "copilot/copilot-conversations",
