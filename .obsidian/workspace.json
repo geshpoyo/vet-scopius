@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "プログラミング/Python学習ノート.md",
+                "file": "プログラミング/言語別：ドット記法と階層の意味.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python学習ノート"
+              "title": "言語別：ドット記法と階層の意味"
             }
           }
         ],
@@ -269,11 +269,12 @@
   },
   "active": "4d065d85bcd19493",
   "lastOpenFiles": [
+    "プログラミング/Python学習ノート.md",
+    "プログラミング/言語別：ドット記法と階層の意味.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-11.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-12.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-13.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-14.md",
-    "プログラミング/Python学習ノート.md",
     "プログラミング/format().md",
     "プログラミング/関数",
     "プログラミング/Turtle1.py.md",
