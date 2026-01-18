@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "プログラミング/Python学習ノート.md",
+                "file": "geshtalt/★Periodic Notes/1.Daily/2026-01-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python学習ノート"
+              "title": "2026-01-18"
             }
           }
         ],
@@ -269,12 +269,14 @@
   },
   "active": "4d065d85bcd19493",
   "lastOpenFiles": [
-    "プログラミング/言語別：ドット記法と階層の意味.md",
+    "geshtalt/★Periodic Notes/2.Weekly/2026-w03.md",
+    "geshtalt/★Periodic Notes/1.Daily/2026-01-18.md",
+    "geshtalt/★Periodic Notes/1.Daily/2026-01-14.md",
     "プログラミング/Python学習ノート.md",
+    "プログラミング/言語別：ドット記法と階層の意味.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-11.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-12.md",
     "geshtalt/★Periodic Notes/1.Daily/2026-01-13.md",
-    "geshtalt/★Periodic Notes/1.Daily/2026-01-14.md",
     "プログラミング/format().md",
     "プログラミング/関数",
     "プログラミング/Turtle1.py.md",
@@ -285,7 +287,6 @@
     "Obsidian/Obsidian マニュアル.md",
     "Obsidian/Obsidian AI用の設定ノート.md",
     "Templates/1.Daily.md",
-    "geshtalt/★Periodic Notes/2.Weekly/2026-w03.md",
     "Templates/2.Weekly.md",
     "Templates/3.Monthly.md",
     "Templates/4.Quarterly.md",
@@ -297,7 +298,6 @@
     "geshtalt/★Periodic Notes/3.Monthly/2026-01.md",
     "Pasted image 20260109074820.png",
     "geshtalt/★Periodic Notes/1.Daily/Untitled.md",
-    "Prompt/Prompt Library/Untitled.md",
     "Prompt/FlowGPT（高速呼び出し）",
     "Prompt/Dataview（一覧・検索）",
     "Prompt/Prompt Tags",
